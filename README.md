@@ -9,7 +9,7 @@ pip install tracksim.py
 
 ## Usage
 
-See the [wiki](https://google.com).
+See the [wiki](https://github.com/mrbean565/tacksim.py/wiki).
 
 ## Credits 
 
